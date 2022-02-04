@@ -671,7 +671,7 @@ Terraform will perform the following actions:
       - labels                    = {} -> null
       - metadata                  = {
           - "ssh-keys" = <<-EOT
-                ubuntu:ssh-rsa AAAAB3NzaC1cNjldIP91Rom5WZ5KJXUdKR7OTJGdji+xojNLuyqy3O02PfBAP8R1YZx2CPZ2IZQzmFJhLHwJbcb9Kx2+Eh3KWMC0exur9I86ggderNWvqYzbdO2PL7f7vs9rZta+TEst2ad+ZFCxSJRC9B+ZMa2GWBjRS4SmUnixgk26fjgJiCoGhv4QZpLtDimgiBBdoBPtVKyk4N5qtr3mRdMnv615JBqo5wLA5D1vj7MtqNp9lf6mUeIhxO4uUnFz0/pomKB5iAV1B6xsM29uUYZGBHSxZXctE226FNjDmxlJ5uLN7AmKW8DFMz2ug9rQz3BXIAXWe4uaYXueIVpKiU5vzWfPoi+L1hUKXxJEAiByXPPLup1xYnluRE/XqPNRU69AjFPYxK3/R9/uAavJLhhHOs+JZ3kTeic1jnDUeGC424PP65TVYHX/HDmulxx986uBfkfHQpHZZ3MlPu6ETgiBDzoML/m+IGXjig5fgZaUtusda9HzraPTcLsVa6T
+                ubuntu:ssh-rsa AAAAB3NzaC1cNjldIP91oML/m+IGXjig5fgZaUtusda9HzraPTcLsVa6T
             EOT
         } -> null
       - name                      = "wp-app-1" -> null
@@ -731,7 +731,7 @@ Terraform will perform the following actions:
       - labels                    = {} -> null
       - metadata                  = {
           - "ssh-keys" = <<-EOT
-                ubuntu:ssh-rsa AAAAByqy3O02PfBAP8R1YZx2CPZ2IZQzmFJhLHwJbcb9Kx2+Eh3KWMC0exur9I86ggderNWvqYzbdO2PL7f7vs9rZta+TEst2ad+ZFCxSJRC9B+ZMa2GWBjRS4SmUnixgk26fjgJiCoGhv4QZpLtDimgiBBdoBPtVKyk4N5qtr3mRdMnv615JBqo5wLA5D1vj7MtqNp9lf6mUeIhxO4uUnFz0/pomKB5iAV1B6xsM29uUYZGBHSxZXctE226FNjDmxlJ5uLN7AmKW8DFMz2ug9rQz3BXIAXWe4uaYXueIVpKiU5vzWfPoi+L1hUKXxJEAiByXPPLup1xYnluRE/XqPNRU69AjFPYxK3/R9/uAavJLhhHOs+JZ3kTeic1jnDUeGC424PP65TVYHX/HDmulxx986uBfkfHQpHZZ3MlPu6ETgiBDzoML/m+IGXjig5fgZaUtusda9HzraPTcLsVa6TgDDHd6SF8+frcTDU96WYFL
+                ubuntu:ssh-rsa AAAAByqy3O02PfBA
             EOT
         } -> null
       - name                      = "wp-app-2" -> null
